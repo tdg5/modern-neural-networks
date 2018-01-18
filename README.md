@@ -2,11 +2,11 @@
 
 ## Deep Learning
 
-Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville: An MIT
-Press book \
+**Deep Learning** by Ian Goodfellow and Yoshua Bengio and Aaron Courville: An
+MIT Press book \
 [html][Deep-Learning-Bengio-Courville-Goodfellow-HTML] | [pdf][Deep-Learning-Bengio-Courville-Goodfellow-PDF]
 
-Playing Atari with Deep Reinforcement Learning by Volodymyr Mnih, Koray
+**Playing Atari with Deep Reinforcement Learning** by Volodymyr Mnih, Koray
 Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and
 Martin Riedmiller \
 [pdf][Playing-Atari-With-Deep-Reinforcement-Learning-PDF]
@@ -14,8 +14,8 @@ Martin Riedmiller \
 Neural Turing Machines by Alex Graves, Greg Wayne, and Ivo Danihelka \
 [pdf][Neural-Turing-Machines-PDF]
 
-Hybrid Computing Using a Neural Network with Dynamic External Memory by
-Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka
+**Hybrid Computing Using a Neural Network with Dynamic External Memory** by Alex
+Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka
 Grabska-Barwińska,Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho,
 John Agapiou, Adrià Puigdomènech Badia,Karl Moritz Hermann, Yori Zwols, Georg
 Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom,Koray
@@ -24,106 +24,106 @@ Kavukcuoglum, and Demis Hassabis \
 
 ## Neuroevolution
 
-Evolving Artificial Neural Networks by Xin Yao \
+**Evolving Artificial Neural Networks** by Xin Yao \
 [pdf][Evolving-Artificial-Neural-Networks-Yao-PDF]
 
-Neuroevolution: A different kind of deep learning By Kenneth O. Stanley \
+**Neuroevolution: A different kind of deep learning** by Kenneth O. Stanley \
 [html][Neuroevolution-A-Different-Kind-Of-Deep-Learning-HTML]
 
-Evolving Neural Networks through Augmenting Topologies by Kenneth O. Stanley and
-Risto Miikkulainen \
+**Evolving Neural Networks through Augmenting Topologies** by Kenneth O. Stanley
+and Risto Miikkulainen \
 [pdf][NEAT-PDF]
 
-Evolutionary Robotics Review by Josh C. Bongard \
+**Evolutionary Robotics Review** by Josh C. Bongard \
 [pdf][Evolutionary-Robotics-Review-PDF]
 
-Evolving Deep Neural Networks By Risto Miikkulainen, Jason Liang, Elliot
+**Evolving Deep Neural Networks** by Risto Miikkulainen, Jason Liang, Elliot
 Meyerson, Aditya Rawal, Dan Fink, Oliver Francon, Hormoz Shahrzad, Arshak
 Navruzyan, Nigel Duffy, and Babak Hodjat \
 [pdf][Evolving-Deep-Neural-Networks-PDF]
 
-Evolution Strategies as a Scalable Alternative to Reinforcement Learning: OpenAI
-Blog \
+**Evolution Strategies as a Scalable Alternative to Reinforcement Learning**
+from OpenAI Blog \
 [html][Evolution-Strategies-As-A-Scalable-Alternative-To-Reinforcement-Learning-HTML]
 
-Quality Diversity: A New Frontier for Evolutionary Computation by Justin K.
+**Quality Diversity: A New Frontier for Evolutionary Computation** by Justin K.
 Pugh, Lisa B. Soros, and Kenneth O. Stanley \
 [html][Quality-Diversity-A-New-Frontier-HTML]
 
-Abandoning Objectives: Evolution through the Search for Novelty Alone by Joel
-Lehman and Kenneth O. Stanley \
+**Abandoning Objectives: Evolution through the Search for Novelty Alone** by
+Joel Lehman and Kenneth O. Stanley \
 [pdf][Abandoning-Objectives-PDF]
 
-A Taxonomy for Artificial Embryogeny by Kenneth O. Stanley and Risto
+**A Taxonomy for Artificial Embryogeny** by Kenneth O. Stanley and Risto
 Miikkulainen \
 [pdf][A-Taxonomy-For-Artificial-Embryogeny-PDF]
 
-Large Scale Evolution of Image Classifiers by Esteban Real, Sherry Moore, Andrew
-Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tran, Quoc V. Le, and Alexey
-Kurakin \
+**Large Scale Evolution of Image Classifiers** by Esteban Real, Sherry Moore,
+Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tran, Quoc V. Le, and
+Alexey Kurakin \
 [pdf][Large-Scale-Evolution-Of-Image-Classifiers-PDF]
 
-Robots That Can Adapt Like Natural Animals by Antoine Cully, Jeff Clune, and
+**Robots That Can Adapt Like Natural Animals** by Antoine Cully, Jeff Clune, and
 Jean-Baptiste Mouret \
 [pdf][Robots-That-Can-Adapt-Like-Natural-Animals-PDF]
 
-How Novelty Search Escapes the Deceptive Trap of Learning to Learn by Sebastian
-Risi, Sandy D. Vanderbleek, Charles E. Hughes, and Kenneth O. Stanley \
+**How Novelty Search Escapes the Deceptive Trap of Learning to Learn** by
+Sebastian Risi, Sandy D. Vanderbleek, Charles E. Hughes, and Kenneth O. Stanley \
 [pdf][How-Novelty-Search-Escapes-The-Deceptive-Trap-PDF]
 
-Efficiently Evolving Programs through the Search for Novelty by Joel Lehman and
-Kenneth O. Stanley \
+**Efficiently Evolving Programs through the Search for Novelty** by Joel Lehman
+and Kenneth O. Stanley \
 [pdf][Efficiently-Evolving-Programs-Through-The-Search-For-Novelty-PDF]
 
-Encouraging Behavioral Diversity in Evolutionary Robotics by J. B. Mouret and S.
-Doncieux \
+**Encouraging Behavioral Diversity in Evolutionary Robotics** by J. B. Mouret
+and S.  Doncieux \
 [pdf][Encouraging-Behavioral-Diversity-in-Evolutionary-Robotics-PDF]
 
-A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks by Kenneth
-O. Stanley, David B. D'Ambrosio, and Jason Gauci \
+**A Hypercube-Based Encoding for Evolving Large-Scale Neural Networks** by
+Kenneth O. Stanley, David B. D'Ambrosio, and Jason Gauci \
 [pdf][HyperNEAT-PDF]
 
-Simple Evolutionary Optimization Can Rival Stochastic Gradient Descent in Neural
-Networks by Gregory Morse and Kenneth O. Stanley \
+**Simple Evolutionary Optimization Can Rival Stochastic Gradient Descent in
+Neural Networks** by Gregory Morse and Kenneth O. Stanley \
 [pdf][Evolutionary-Optimization-Can-Rival-Gradient-Descent-PDF]
 
-A Unified Approach to Evolving Plasticity and Neural Geometry by Sebastian Risi
-and Kenneth O. Stanley \
+**A Unified Approach to Evolving Plasticity and Neural Geometry** by Sebastian
+Risi and Kenneth O. Stanley \
 [pdf][Evolving-Plasticity-and-Neural-Geometry-PDF]
 
-Minimal Criterion Coevolution: A New Approach to Open-Ended Search by Jonathan
-C. Brant and Kenneth O. Stanley \
+**Minimal Criterion Coevolution: A New Approach to Open-Ended Search** by
+Jonathan C. Brant and Kenneth O. Stanley \
 [pdf][Minimal-Criterion-Coevolution-PDF]
 
-Constraining Connectivity to Encourage Modularity in HyperNEAT by Phillip
+**Constraining Connectivity to Encourage Modularity in HyperNEAT** by Phillip
 Verbancsics and Kenneth O. Stanley \
 [pdf][Constaining-Connectivity-To-Encourage-Modularity-In-HyperNEAT-PDF]
 
-Indirect Encoding of Neural Networks for Scalable Go by Jason Gauci and Kenneth
-O. Stanley \
+**Indirect Encoding of Neural Networks for Scalable Go** by Jason Gauci and
+Kenneth O. Stanley \
 [pdf][Indirect-Encoding-Of-Neural-Networks-For-Scalable-Go-PDF]
 
-Generating Large-Scale Neural Networks Through Discovering Geometric
-Regularities by Jason J. Gauci and Kenneth O. Stanley \
+**Generating Large-Scale Neural Networks Through Discovering Geometric
+Regularities** by Jason J. Gauci and Kenneth O. Stanley \
 [pdf][Generating-Large-Scale-Neural-Networks-Through-Geometric-Regularities-PDF]
 
-Reconciling Explanations for the Evolution of Evolvability by Bryan Wilder and
-Kenneth O. Stanley \
+**Reconciling Explanations for the Evolution of Evolvability** by Bryan Wilder
+and Kenneth O. Stanley \
 [pdf][Reconciling Explanations-For-The-Evolution-Of-Evolvability-PDF]
 
-Confronting the Challenge of Quality Diversity by Justin K. Pugh, Paul A.
+**Confronting the Challenge of Quality Diversity** by Justin K. Pugh, Paul A.
 Szerlip and Kenneth O. Stanley \
 [pdf][Confronting-The-Challenge-Of-Quality-Diversity-PDF]
 
-Indirectly Encoding Neural Plasticity as a Pattern of Local Rules by Sebastian
-Risi and Kenneth O. Stanley \
+**Indirectly Encoding Neural Plasticity as a Pattern of Local Rules** by
+Sebastian Risi and Kenneth O. Stanley \
 [pdf][Indirectly-Encoding-Neural-Plasticity-As-A-Pattern-Of-Local-Rules-PDF]
 
-A Case Study on the Critical Role of Geometric Regularity in Machine Learning
-Jason Gauci and Kenneth O. Stanley \
+**A Case Study on the Critical Role of Geometric Regularity in Machine
+Learning** by Jason Gauci and Kenneth O. Stanley \
 [pdf][Critical-Role-Of-Geometric-Regularity-In-Machine-Learning-PDF]
 
-Evolving the Placement and Density of Neurons in the HyperNEAT Substrate by
+**Evolving the Placement and Density of Neurons in the HyperNEAT Substrate** by
 Sebastian Risi, Joel Lehman, and Kenneth O. Stanley \
 [pdf][Evolving-The-Placement-And-Density-Of-Neurons-In-The-HyperNEAT-Substrate]
 
