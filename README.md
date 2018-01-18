@@ -6,6 +6,22 @@ Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville: An MIT
 Press book \
 [html][Deep-Learning-Bengio-Courville-Goodfellow-HTML] | [pdf][Deep-Learning-Bengio-Courville-Goodfellow-PDF]
 
+Playing Atari with Deep Reinforcement Learning by Volodymyr Mnih, Koray
+Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and
+Martin Riedmiller \
+[pdf][Playing-Atari-With-Deep-Reinforcement-Learning-PDF]
+
+Neural Turing Machines by Alex Graves, Greg Wayne, and Ivo Danihelka \
+[pdf][Neural-Turing-Machines-PDF]
+
+Hybrid Computing Using a Neural Network with Dynamic External Memory by
+Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka
+Grabska-Barwińska,Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho,
+John Agapiou, Adrià Puigdomènech Badia,Karl Moritz Hermann, Yori Zwols, Georg
+Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom,Koray
+Kavukcuoglum, and Demis Hassabis \
+[pdf][Hybrid-Computing-Using-a-Neural-Network-with-Dynamic-External-Memory-PDF]
+
 ## Neuroevolution
 
 Evolving Artificial Neural Networks by Xin Yao \
@@ -129,13 +145,16 @@ Sebastian Risi, Joel Lehman, and Kenneth O. Stanley \
 [Evolving-The-Placement-And-Density-Of-Neurons-In-The-HyperNEAT-Substrate]: http://eplex.cs.ucf.edu/papers/risi_gecco10.pdf "Evolving the Placement and Density of Neurons in the HyperNEAT Substrate"
 [Generating-Large-Scale-Neural-Networks-Through-Geometric-Regularities-PDF]: http://eplex.cs.ucf.edu/papers/gauci_gecco07.pdf "Generating Large-Scale Neural Networks Through Discovering Geometric Regularities"
 [How-Novelty-Search-Escapes-The-Deceptive-Trap-PDF]: http://eplex.cs.ucf.edu/papers/risi_gecco09.pdf "How Novelty Search Escapes the Deceptive Trap of Learning to Learn"
+[Hybrid-Computing-Using-a-Neural-Network-with-Dynamic-External-Memory-PDF]: https://pdfs.semanticscholar.org/7635/78fa9003f6c0f735bc3250fc2116f6100463.pdf "Hybrid Computing Using a Neural Network with Dynamic External Memory"
 [HyperNEAT-PDF]: http://eplex.cs.ucf.edu/papers/stanley_alife09.pdf "http://eplex.cs.ucf.edu/papers/stanley_alife09.pdf"
 [Indirect-Encoding-Of-Neural-Networks-For-Scalable-Go-PDF]: http://eplex.cs.ucf.edu/papers/gauci_ppsn10.pdf "Indirect Encoding of Neural Networks for Scalable Go"
 [Indirectly-Encoding-Neural-Plasticity-As-A-Pattern-Of-Local-Rules-PDF]: http://eplex.cs.ucf.edu/papers/risi_sab10.pdf "Indirectly Encoding Neural Plasticity as a Pattern of Local Rules"
 [Large-Scale-Evolution-Of-Image-Classifiers-PDF]: https://arxiv.org/pdf/1703.01041.pdf "Large Scale Evolution of Image Classifiers | arxiv.org"
 [Minimal-Criterion-Coevolution-PDF]: http://eplex.cs.ucf.edu/papers/brant_gecco17.pdf "Minimal Criterion Coevolution: A New Approach to Open-Ended Search"
 [NEAT-PDF]: http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf "Evolving Neural Networks through Augmenting Topologies"
+[Neural-Turing-Machines-PDF]: https://arxiv.org/pdf/1410.5401.pdf "Neural Turing Machines | arxiv.org"
 [Neuroevolution-A-Different-Kind-Of-Deep-Learning-HTML]: https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning "Neuroevolution: A different kind of deep learning -- O'Reilly Media"
+[Playing-Atari-With-Deep-Reinforcement-Learning-PDF]: https://arxiv.org/pdf/1312.5602.pdf "Playing Atari with Deep Reinforcement Learning | arxiv.org"
 [Quality-Diversity-A-New-Frontier-HTML]: https://www.frontiersin.org/articles/10.3389/frobt.2016.00040/full "Quality Diversity: A New Frontier for Evolutionary Computation | www.frontiersin.org"
 [Reconciling Explanations-For-The-Evolution-Of-Evolvability-PDF]: http://eplex.cs.ucf.edu/papers/wilder_ab15.pdf "Reconciling Explanations for the Evolution of Evolvability"
 [Robots-That-Can-Adapt-Like-Natural-Animals-PDF]: https://arxiv.org/pdf/1407.3501v2.pdf%3B "Robots That Can Adapt Lile Natrual Animals"
